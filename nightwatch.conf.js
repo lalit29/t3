@@ -6,7 +6,7 @@ module.exports = {
 
     'webdriver': {
         'start_process': true,
-        'server_path': require('chromedriver').path,
+        'server_path': require('chromedriver').path,//path
         'port': 9515
     },
 
